@@ -15,6 +15,7 @@ class Trying
 		if(add==copy)
 		{
 		System.out.println("Evil number");
+		System.out.println("Looser");
 		}
 		else
 		{
